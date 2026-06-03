@@ -1,26 +1,27 @@
-     1|<?xml version="1.0" encoding="UTF-8"?>
-     2|<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-     3|<url><loc>https://teyvat-guide.netlify.app/</loc><changefreq>daily</changefreq><priority>1.0</priority></url>
-     4|<url><loc>https://teyvat-guide.netlify.app/guides/</loc><priority>0.9</priority></url>
-     5|<url><loc>https://teyvat-guide.netlify.app/guides/characters/</loc><priority>0.9</priority></url>
-     6|<url><loc>https://teyvat-guide.netlify.app/guides/bosses/</loc><priority>0.8</priority></url>
-     7|<url><loc>https://teyvat-guide.netlify.app/guides/weapons/</loc><priority>0.8</priority></url>
-     8|<url><loc>https://teyvat-guide.netlify.app/news/</loc><priority>0.8</priority></url>
-     9|<url><loc>https://teyvat-guide.netlify.app/guides/characters/zhongli.html</loc><priority>0.9</priority></url>
-    10|<url><loc>https://teyvat-guide.netlify.app/guides/characters/nahida.html</loc><priority>0.9</priority></url>
-    11|<url><loc>https://teyvat-guide.netlify.app/guides/characters/neuvillette.html</loc><priority>0.9</priority></url>
-    12|<url><loc>https://teyvat-guide.netlify.app/guides/characters/furina.html</loc><priority>0.9</priority></url>
-    13|<url><loc>https://teyvat-guide.netlify.app/guides/characters/arlecchino.html</loc><priority>0.9</priority></url>
-    14|<url><loc>https://teyvat-guide.netlify.app/guides/bosses/raiden-shogun.html</loc><priority>0.8</priority></url>
-    15|<url><loc>https://teyvat-guide.netlify.app/guides/bosses/narwhal.html</loc><priority>0.8</priority></url>
-    16|<url><loc>https://teyvat-guide.netlify.app/guides/bosses/apep.html</loc><priority>0.8</priority></url>
-    17|<url><loc>https://teyvat-guide.netlify.app/guides/weapons/homa.html</loc><priority>0.8</priority></url>
-    18|<url><loc>https://teyvat-guide.netlify.app/guides/weapons/crimson-moon.html</loc><priority>0.8</priority></url>
-    19|<url><loc>https://teyvat-guide.netlify.app/guides/weapons/aqua-simulacra.html</loc><priority>0.8</priority></url>
-    20|<url><loc>https://teyvat-guide.netlify.app/guides/quests/sumeru-desert.html</loc><priority>0.7</priority></url>
-    21|<url><loc>https://teyvat-guide.netlify.app/guides/quests/fontaine-world.html</loc><priority>0.7</priority></url>
-    22|<url><loc>https://teyvat-guide.netlify.app/news/natlan-preview.html</loc><priority>0.7</priority></url>
-    23|<url><loc>https://teyvat-guide.netlify.app/news/5-7-banners.html</loc><priority>0.7</priority></url>
-    24|<url><loc>https://teyvat-guide.netlify.app/news/spiral-abyss-5-7.html</loc><priority>0.7</priority></url>
-    25|<url><loc>https://chjiya.github.io/teyvat-guide/tier-list.html</loc><priority>1.0</priority></url>
+     1|     1|<?xml version="1.0" encoding="UTF-8"?>
+     2|     2|<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+     3|     3|<url><loc>https://teyvat-guide.netlify.app/</loc><changefreq>daily</changefreq><priority>1.0</priority></url>
+     4|     4|<url><loc>https://teyvat-guide.netlify.app/guides/</loc><priority>0.9</priority></url>
+     5|     5|<url><loc>https://teyvat-guide.netlify.app/guides/characters/</loc><priority>0.9</priority></url>
+     6|     6|<url><loc>https://teyvat-guide.netlify.app/guides/bosses/</loc><priority>0.8</priority></url>
+     7|     7|<url><loc>https://teyvat-guide.netlify.app/guides/weapons/</loc><priority>0.8</priority></url>
+     8|     8|<url><loc>https://teyvat-guide.netlify.app/news/</loc><priority>0.8</priority></url>
+     9|     9|<url><loc>https://teyvat-guide.netlify.app/guides/characters/zhongli.html</loc><priority>0.9</priority></url>
+    10|    10|<url><loc>https://teyvat-guide.netlify.app/guides/characters/nahida.html</loc><priority>0.9</priority></url>
+    11|    11|<url><loc>https://teyvat-guide.netlify.app/guides/characters/neuvillette.html</loc><priority>0.9</priority></url>
+    12|    12|<url><loc>https://teyvat-guide.netlify.app/guides/characters/furina.html</loc><priority>0.9</priority></url>
+    13|    13|<url><loc>https://teyvat-guide.netlify.app/guides/characters/arlecchino.html</loc><priority>0.9</priority></url>
+    14|    14|<url><loc>https://teyvat-guide.netlify.app/guides/bosses/raiden-shogun.html</loc><priority>0.8</priority></url>
+    15|    15|<url><loc>https://teyvat-guide.netlify.app/guides/bosses/narwhal.html</loc><priority>0.8</priority></url>
+    16|    16|<url><loc>https://teyvat-guide.netlify.app/guides/bosses/apep.html</loc><priority>0.8</priority></url>
+    17|    17|<url><loc>https://teyvat-guide.netlify.app/guides/weapons/homa.html</loc><priority>0.8</priority></url>
+    18|    18|<url><loc>https://teyvat-guide.netlify.app/guides/weapons/crimson-moon.html</loc><priority>0.8</priority></url>
+    19|    19|<url><loc>https://teyvat-guide.netlify.app/guides/weapons/aqua-simulacra.html</loc><priority>0.8</priority></url>
+    20|    20|<url><loc>https://teyvat-guide.netlify.app/guides/quests/sumeru-desert.html</loc><priority>0.7</priority></url>
+    21|    21|<url><loc>https://teyvat-guide.netlify.app/guides/quests/fontaine-world.html</loc><priority>0.7</priority></url>
+    22|    22|<url><loc>https://teyvat-guide.netlify.app/news/natlan-preview.html</loc><priority>0.7</priority></url>
+    23|    23|<url><loc>https://teyvat-guide.netlify.app/news/5-7-banners.html</loc><priority>0.7</priority></url>
+    24|    24|<url><loc>https://teyvat-guide.netlify.app/news/spiral-abyss-5-7.html</loc><priority>0.7</priority></url>
+    25|    25|<url><loc>https://chjiya.github.io/teyvat-guide/tier-list.html</loc><priority>1.0</priority></url>
+    26|<url><loc>https://chjiya.github.io/teyvat-guide/member.html</loc><priority>0.9</priority></url>
 </urlset>
