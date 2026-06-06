@@ -1,40 +1,64 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://chjiya.github.io/teyvat-guide/index.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://chjiya.github.io/teyvat-guide/guides/characters/zhongli.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://chjiya.github.io/teyvat-guide/guides/characters/nahida.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://chjiya.github.io/teyvat-guide/guides/characters/raiden-shogun.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://chjiya.github.io/teyvat-guide/guides/characters/furina.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://chjiya.github.io/teyvat-guide/guides/characters/neuvillette.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://chjiya.github.io/teyvat-guide/guides/characters/kazuha.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://chjiya.github.io/teyvat-guide/guides/characters/yelan.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://chjiya.github.io/teyvat-guide/guides/characters/hutao.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://chjiya.github.io/teyvat-guide/guides/characters/alhaitham.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://chjiya.github.io/teyvat-guide/guides/characters/nilou.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://chjiya.github.io/teyvat-guide/guides/characters/ayaka.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://chjiya.github.io/teyvat-guide/guides/characters/kokomi.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://chjiya.github.io/teyvat-guide/guides/characters/xiao.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://chjiya.github.io/teyvat-guide/guides/characters/ganyu.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://chjiya.github.io/teyvat-guide/guides/characters/wanderer.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://chjiya.github.io/teyvat-guide/guides/bosses/raiden-shogun.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://chjiya.github.io/teyvat-guide/guides/bosses/azhdaha.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://chjiya.github.io/teyvat-guide/guides/bosses/scaramouche.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://chjiya.github.io/teyvat-guide/guides/bosses/apep.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://chjiya.github.io/teyvat-guide/guides/bosses/narwhal.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://chjiya.github.io/teyvat-guide/guides/beginner/new-player-guide.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://chjiya.github.io/teyvat-guide/guides/beginner/artifact-guide.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://chjiya.github.io/teyvat-guide/guides/beginner/boss-material-guide.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://chjiya.github.io/teyvat-guide/guides/beginner/character-tier-guide.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://chjiya.github.io/teyvat-guide/guides/beginner/daily-tasks.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://chjiya.github.io/teyvat-guide/guides/beginner/elemental-oculus-guide.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://chjiya.github.io/teyvat-guide/guides/beginner/index.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://chjiya.github.io/teyvat-guide/guides/beginner/leveling-guide.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://chjiya.github.io/teyvat-guide/guides/beginner/new-player-guide.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://chjiya.github.io/teyvat-guide/guides/beginner/primogem-farming.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://chjiya.github.io/teyvat-guide/guides/beginner/resin-guide.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://chjiya.github.io/teyvat-guide/guides/beginner/spiral-abyss-guide.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://chjiya.github.io/teyvat-guide/guides/beginner/talent-book-guide.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://chjiya.github.io/teyvat-guide/guides/beginner/team-building-101.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://chjiya.github.io/teyvat-guide/guides/beginner/artifact-guide.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://chjiya.github.io/teyvat-guide/guides/beginner/weapon-guide.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://chjiya.github.io/teyvat-guide/guides/beginner/leveling-guide.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://chjiya.github.io/teyvat-guide/guides/tips/spiral-abyss-teams.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://chjiya.github.io/teyvat-guide/guides/beginner/wish-guide.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://chjiya.github.io/teyvat-guide/guides/beginner/world-boss-locations.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://chjiya.github.io/teyvat-guide/guides/bosses/apep.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://chjiya.github.io/teyvat-guide/guides/bosses/azhdaha.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://chjiya.github.io/teyvat-guide/guides/bosses/index.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://chjiya.github.io/teyvat-guide/guides/bosses/narwhal.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://chjiya.github.io/teyvat-guide/guides/bosses/raiden-shogun.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://chjiya.github.io/teyvat-guide/guides/bosses/scaramouche.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://chjiya.github.io/teyvat-guide/guides/characters/alhaitham.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://chjiya.github.io/teyvat-guide/guides/characters/arlecchino.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://chjiya.github.io/teyvat-guide/guides/characters/ayaka.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://chjiya.github.io/teyvat-guide/guides/characters/bennett.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://chjiya.github.io/teyvat-guide/guides/characters/furina.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://chjiya.github.io/teyvat-guide/guides/characters/ganyu.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://chjiya.github.io/teyvat-guide/guides/characters/hutao.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://chjiya.github.io/teyvat-guide/guides/characters/index.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://chjiya.github.io/teyvat-guide/guides/characters/kazuha.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://chjiya.github.io/teyvat-guide/guides/characters/kokomi.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://chjiya.github.io/teyvat-guide/guides/characters/nahida.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://chjiya.github.io/teyvat-guide/guides/characters/neuvillette.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://chjiya.github.io/teyvat-guide/guides/characters/nilou.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://chjiya.github.io/teyvat-guide/guides/characters/raiden-shogun.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://chjiya.github.io/teyvat-guide/guides/characters/tighnari.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://chjiya.github.io/teyvat-guide/guides/characters/venti.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://chjiya.github.io/teyvat-guide/guides/characters/wanderer.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://chjiya.github.io/teyvat-guide/guides/characters/xiangling.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://chjiya.github.io/teyvat-guide/guides/characters/xiao.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://chjiya.github.io/teyvat-guide/guides/characters/xingqiu.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://chjiya.github.io/teyvat-guide/guides/characters/yaemiko.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://chjiya.github.io/teyvat-guide/guides/characters/yelan.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://chjiya.github.io/teyvat-guide/guides/characters/zhongli.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://chjiya.github.io/teyvat-guide/guides/index.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://chjiya.github.io/teyvat-guide/guides/quests/fontaine-world.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://chjiya.github.io/teyvat-guide/guides/quests/sumeru-desert.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://chjiya.github.io/teyvat-guide/guides/tips/elemental-reactions.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://chjiya.github.io/teyvat-guide/guides/tips/exploration-tips.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://chjiya.github.io/teyvat-guide/guides/index.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://chjiya.github.io/teyvat-guide/guides/characters/index.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://chjiya.github.io/teyvat-guide/guides/bosses/index.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://chjiya.github.io/teyvat-guide/guides/beginner/index.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://chjiya.github.io/teyvat-guide/guides/tips/index.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://chjiya.github.io/teyvat-guide/guides/tips/spiral-abyss-teams.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://chjiya.github.io/teyvat-guide/guides/weapons/aqua-simulacra.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://chjiya.github.io/teyvat-guide/guides/weapons/crimson-moon.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://chjiya.github.io/teyvat-guide/guides/weapons/homa.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://chjiya.github.io/teyvat-guide/index.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://chjiya.github.io/teyvat-guide/member.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://chjiya.github.io/teyvat-guide/news/5-7-banners.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://chjiya.github.io/teyvat-guide/news/natlan-preview.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://chjiya.github.io/teyvat-guide/news/spiral-abyss-5-7.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://chjiya.github.io/teyvat-guide/tier-list.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
 </urlset>
